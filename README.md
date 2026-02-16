@@ -4,7 +4,7 @@ A React Native Expo expense tracker with Swiss-inspired minimal design, powered 
 
 ## Demo
 
-<video src="assets/zurispend.mov" controls width="300"></video>
+<video src="https://github.com/salihgueler/zuri-spend-prompts/blob/main/assets/zurispend.mov?raw=true" controls width="300"></video>
 
 ## Prerequisites
 
