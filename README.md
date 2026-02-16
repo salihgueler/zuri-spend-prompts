@@ -2,10 +2,6 @@
 
 A React Native Expo expense tracker with Swiss-inspired minimal design, powered by AWS Amplify Gen 2.
 
-## Demo
-
-<video src="https://github.com/salihgueler/zuri-spend-prompts/blob/main/assets/zurispend.mov?raw=true" controls width="300"></video>
-
 ## Prerequisites
 
 - Node.js 18+
