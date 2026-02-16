@@ -8,6 +8,9 @@ A React Native Expo expense tracker with Swiss-inspired minimal design, powered 
 - Expo CLI (`npm install -g expo-cli`)
 - AWS Account with appropriate permissions (for Amplify backend)
 - AWS CLI configured (optional, for debugging)
+- Kiro or any other Agentic IDE
+
+You can download Kiro from [here](http://kiro.dev/?trk=7fcac8e0-008e-4fe0-8e3d-f72d7381e919&sc_channel=el).
 
 ### iOS (macOS only)
 
